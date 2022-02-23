@@ -1,2 +1,1 @@
-class Prova [
-]
+public class Prova {}
