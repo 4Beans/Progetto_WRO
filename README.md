@@ -1,1 +1,1 @@
-"# Progetto_WRO" 
+# Progetto_WRO
